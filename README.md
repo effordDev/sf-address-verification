@@ -5,7 +5,9 @@ Comprised of one lightning web component that handles the ui
 
 Example of UI  
 ![image](https://user-images.githubusercontent.com/36901822/147955960-76bb928f-1be2-45f1-b455-7b684b28c5ab.png)  
-![image](https://user-images.githubusercontent.com/36901822/147956019-7075b503-e4cd-4ba2-9472-a696a7bf4602.png)
+![image](https://user-images.githubusercontent.com/36901822/147956019-7075b503-e4cd-4ba2-9472-a696a7bf4602.png)  
+![image](https://user-images.githubusercontent.com/36901822/147957054-100d63cf-5727-4108-8415-755dcb200668.png)
+
 
 Data (1 / 4) for predications:
 ```
